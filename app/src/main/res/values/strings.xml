@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First_App_87</string>
+    <string name="trivia">TRIVIA</string>
+    <string name="next">NEXT</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="register">REGISTER</string>
+</resources>
